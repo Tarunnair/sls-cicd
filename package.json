@@ -1,0 +1,18 @@
+{
+  "name": "tarun",
+  "version": "1.0.0",
+  "description": "sls-ci-cd",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git-codecommit.us-east-1.amazonaws.com/v1/repos/sls-cicd-repo"
+  },
+  "author": "Tarun",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
